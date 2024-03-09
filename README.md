@@ -5,4 +5,4 @@ Install all the necessary modules
    
 Run the server
 
-3. nodemon index.js
+2. nodemon index.js
